@@ -6,7 +6,7 @@ A user-friendly graphical interface for capturing, exploring, and analyzing spec
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/kebincontreras/SpecGUI.git
    cd SpecGUI
    ```
 
@@ -45,3 +45,4 @@ After launching the application:
 ## Support
 
 For issues or questions, please open an issue in this repository.
+
