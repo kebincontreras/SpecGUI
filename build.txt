@@ -1,0 +1,1 @@
+pyuic6 -o guis/spec_gui.py guis/spec_gui.ui && pyside6-rcc -o guis/icons/icons.py guis/icons/icons.qrc

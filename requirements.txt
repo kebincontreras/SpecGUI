@@ -1,0 +1,10 @@
+PySide6==6.5.2
+PySide6-Addons==6.5.2
+PySide6-Essentials==6.5.2
+shiboken2==5.15.2.1
+shiboken6==6.5.2
+numpy
+scipy
+PyQt6
+matplotlib
+seabreeze
